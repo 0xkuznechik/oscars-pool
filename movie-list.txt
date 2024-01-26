@@ -1,0 +1,101 @@
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best Picture Betting Odds|Oppenheimer|'-1000
+2024-01-26|2024 Best Picture Betting Odds|Poor Things|'+1400
+2024-01-26|2024 Best Picture Betting Odds|The Holdovers|'+1400
+2024-01-26|2024 Best Picture Betting Odds|Killers of the Flower Moon|'+2500
+2024-01-26|2024 Best Picture Betting Odds|Anatomy of a Fall|'+3300
+2024-01-26|2024 Best Picture Betting Odds|American Fiction|'+4000
+2024-01-26|2024 Best Picture Betting Odds|The Zone of Interest|'+4000
+2024-01-26|2024 Best Picture Betting Odds|Barbie|'+5000
+2024-01-26|2024 Best Picture Betting Odds|Past Lives|'+6600
+2024-01-26|2024 Best Picture Betting Odds|Maestro|'+6600
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best Lead Actor Betting Odds|Cillian Murphy (Oppenheimer)|'-250
+2024-01-26|2024 Best Lead Actor Betting Odds|Paul Giamatti (The Holdovers)|'+225
+2024-01-26|2024 Best Lead Actor Betting Odds|Bradley Cooper (Maestro)|'+750
+2024-01-26|2024 Best Lead Actor Betting Odds|Jeffrey Wright (American Fiction)|'+2500
+2024-01-26|2024 Best Lead Actor Betting Odds|Colman Domingo (Rustin)|'+3300
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best Lead Actress Betting Odds|Emma Stone (Poor Things)|'-138
+2024-01-26|2024 Best Lead Actress Betting Odds|Lily Gladstone (Killers of the Flower Moon)|'+100
+2024-01-26|2024 Best Lead Actress Betting Odds|Carey Mulligan (Maestro)|'+2000
+2024-01-26|2024 Best Lead Actress Betting Odds|Sandra Huller (Anatomy of a Fall)|'+2000
+2024-01-26|2024 Best Lead Actress Betting Odds|Annette Benning (Nyad)|'+3300
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best Supporting Actor Betting Odds|Robert Downey Jr. (Oppenheimer)|'-1000
+2024-01-26|2024 Best Supporting Actor Betting Odds|Ryan Gosling (Barbie)|'+700
+2024-01-26|2024 Best Supporting Actor Betting Odds|Robert De Niro (Killers of the Flower Moon)|'+1400
+2024-01-26|2024 Best Supporting Actor Betting Odds|Mark Ruffalo (Poor Things)|'+1600
+2024-01-26|2024 Best Supporting Actor Betting Odds|Sterling K. Brown (American Fiction)|'+2000
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best Supporting Actress Betting Odds|Da'Vine Joy Randolph (The Holdovers)|'-2000
+2024-01-26|2024 Best Supporting Actress Betting Odds|Danielle Brooks (The Color Purple)|'+1100
+2024-01-26|2024 Best Supporting Actress Betting Odds|Emily Blunt (Oppenheimer)|'+1100
+2024-01-26|2024 Best Supporting Actress Betting Odds|Jodie Foster (Nyad)|'+2000
+2024-01-26|2024 Best Supporting Actress Betting Odds|America Ferrera (Barbie)|'+2500
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best Director Betting Odds|Christopher Nolan (Oppenheimer)|'-3300
+2024-01-26|2024 Best Director Betting Odds|Martin Scorsese (Killers of the Flower Moon)|'+1400
+2024-01-26|2024 Best Director Betting Odds|Yorgos Lanthimos (Poor Things)|'+1400
+2024-01-26|2024 Best Director Betting Odds|Justine Triet (Anatomy of a Fall)|'+1600
+2024-01-26|2024 Best Director Betting Odds|Jonathan Glazer (The Zone of Interest)|'+2500
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best Original Screenplay|The Holdovers|'-140
+2024-01-26|2024 Best Original Screenplay|Anatomy of a Fall|'+145
+2024-01-26|2024 Best Original Screenplay|Past Lives|'+430
+2024-01-26|2024 Best Original Screenplay|Maestro|'+2000
+2024-01-26|2024 Best Original Screenplay|May December|'+2400
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best Adapted Screenplay|Oppenheimer|'-115
+2024-01-26|2024 Best Adapted Screenplay|Barbie|'+200
+2024-01-26|2024 Best Adapted Screenplay|American Fiction|'+370
+2024-01-26|2024 Best Adapted Screenplay|Poor Things|'+500
+2024-01-26|2024 Best Adapted Screenplay|The Zone of Interest|'+2300
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best International Feature Film|The Zone of Interest|'-1500
+2024-01-26|2024 Best International Feature Film|Society of the Snow|'+850
+2024-01-26|2024 Best International Feature Film|The Teacher's Lounge|'+1600
+2024-01-26|2024 Best International Feature Film|Perfect Days|'+1800
+2024-01-26|2024 Best International Feature Film|lo capitano|'+2300
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best Original Song|What Was I Made For (Barbie)|'-480
+2024-01-26|2024 Best Original Song|I'm Just Ken (Barbie)|'+480
+2024-01-26|2024 Best Original Song|The Fire Inside (Flamin' Hot)|'+1200
+2024-01-26|2024 Best Original Song|It Never Went Away (American Symphony)|'+2400
+2024-01-26|2024 Best Original Song|Wahzhazhe (Killers of the Flower Moon)|'+2400
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best Original Score|Ludwig Goransson (Oppenheimer)|'-1200
+2024-01-26|2024 Best Original Score|Robbie Robertson (Killers of the Flower Moon)|'+1200
+2024-01-26|2024 Best Original Score|Jerskin Fendrix (Poor Things)|'+1600
+2024-01-26|2024 Best Original Score|John Williams (Indiana Jones and the Dial of Destiny)|'+1900
+2024-01-26|2024 Best Original Score|Laura Karpman (American Fiction)|'+2100
+Timestamp|Category|Nominee|Odds
+2024-01-26|2024 Best Cinematography |Oppenheimer|'-550
+2024-01-26|2024 Best Cinematography |Poor Things|'+1000
+2024-01-26|2024 Best Cinematography |Killers of the Flower Moon|'+1000
+2024-01-26|2024 Best Cinematography |El Conde|'+1600
+2024-01-26|2024 Best Cinematography |Maestro|'+1900
+---
+Movie|Num Noms
+The Zone of Interest| 4
+Killers of the Flower Moon| 7
+May December| 1
+Barbie| 6
+Oppenheimer| 8
+Indiana Jones and the Dial of Destiny| 1
+American Fiction| 5
+Society of the Snow| 1
+Nyad| 2
+American Symphony| 1
+Maestro| 5
+Rustin| 1
+The Color Purple| 1
+Anatomy of a Fall| 4
+The Holdovers| 4
+Flamin' Hot| 1
+El Conde| 1
+lo capitano| 1
+Perfect Days| 1
+Poor Things| 7
+Past Lives| 2
+The Teacher's Lounge| 1
