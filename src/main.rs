@@ -20,15 +20,6 @@ fn PrettyPrintHTML(contents: &String) -> html_parser::Result<()> {
     Ok(())
 }
 
-fn Process<'a>(words: dyn Iterator<Item = &'a str>) {
-    for w in words {
-        println!("111{w}");
-        if w.eq("2024Best") {
-            return;
-        }
-    }
-}
-
 fn main() {
     PingAndPrint();
     /*

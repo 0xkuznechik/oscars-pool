@@ -49,6 +49,7 @@ struct MovieOdds {
 };
 
 absl::flat_hash_map<std::string, int> NOMINATION_COUNT_;
+absl::flat_hash_map<std::string, std::vector<std::string>> NOMINATION_LIST_;
 
 std::string GetTime() {
   time_t current_time;
@@ -149,12 +150,15 @@ void ProcessIter(const std::string *s) {
           // Remove trailing odds
           absl::StrJoin(current_movie.begin(), current_movie.end() - 1, " ");
 
+			std::string key;
       if (auto s = GetBlobBetweenDelims(current_movie_str, "(", ")");
           s.empty()) {
-        NOMINATION_COUNT_[current_movie_str]++;
+				key = current_movie_str;
       } else {
-        NOMINATION_COUNT_[s]++;
+				key = s;
       }
+			NOMINATION_COUNT_[key]++;
+			NOMINATION_LIST_[key].push_back(category);
 
       std::string current_movie_odds = current_movie[current_movie.size() - 1];
 
@@ -199,6 +203,10 @@ int main(int argc, char *argv[]) {
   for (const auto &[k, v] : NOMINATION_COUNT_) {
     std::cout << k << "| " << v << std::endl;
   }
+  for (const auto &[k, v] : NOMINATION_LIST_) {
+    std::cout << k << "| " << absl::StrJoin(v, ",") << std::endl;
+  }
+
   // TODO: Also add a timestamp header with date
   auto current_time = GetTime();
   return 0;
